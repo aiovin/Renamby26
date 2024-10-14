@@ -1,0 +1,3 @@
+tkinter
+pypiwin32
+mutagen
